@@ -1,4 +1,4 @@
-![Video](Desktop 2026.04.25 - 16.40.48.01.mp4)
+<video src="Desktop 2026.04.25 - 16.40.48.01.mp4" width="320" height="240" controls></video>
 
 # Project Title (Update)
 
